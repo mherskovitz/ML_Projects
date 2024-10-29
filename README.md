@@ -7,5 +7,5 @@ Food Hub Project:
     Multivariate analysis showed relationships between variables like cuisine types and order cost, day of the week and delivery time, and rating and delivery time.
     Recommendations were made based on the analysis and center on approaches to improve the customer experience, drive revenue/growth and expand the usage of data driven decisions.  
 
-MLB_Streak:
+Streak_MLB_v1:
     This script takes as input the name of an MLB batter and then produces a time series chart of on base percentage with 5,10 and 15 day moving averages.
